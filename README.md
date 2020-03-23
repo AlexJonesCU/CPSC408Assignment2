@@ -4,6 +4,9 @@
 #2290441
 #Assignment2
 
+to run: "python PythonAssignment2.py"
+
+
 # sources used
 # https://www.geeksforgeeks.org/inserting-variables-to-database-table-using-python/
 # https://www.sqlitetutorial.net/sqlite-python/update/
@@ -12,4 +15,3 @@
 # https://www.tutorialspoint.com/How-to-catch-ImportError-Exception-in-Python
 # https://datatofish.com/create-database-python-using-sqlite3/
 
-to run: "python PythonAssignment2.py"
